@@ -1,0 +1,20 @@
+
+public class Student 
+{
+	String S1="s001";
+	String S2="s001";
+	String S3="s001";
+	String Sn1="郑东红";
+	String Sn2="陈明丽";
+	String Sn3="黄文杰";
+}
+
+public class Course
+{
+	String CourseNumber1="c001";
+	String CourseNumber2="c002";
+	String CourseNumber3="c003";
+	String CourseName1="嵌入式编程原理";
+	String CourseName2="计算机专业英语";
+	String CourseName3="微机接口与技术";
+}
